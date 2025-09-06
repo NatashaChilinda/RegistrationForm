@@ -19,10 +19,10 @@ This lab project implements a registration form that:
 
 ## How to Run
 1. Download or clone this repository.
-2. Open `index.html` in any modern browser (no extra setup needed).
+2. Open `index.html` in any modern browser 
 
 ## Repository Link
-[GitHub Repo URL goes here]
+https://github.com/NatashaChilinda/RegistrationForm
 
 ## Git Evidence
-- At least 5 commits with meaningful messages.
+-  5 commits with meaningful messages.
